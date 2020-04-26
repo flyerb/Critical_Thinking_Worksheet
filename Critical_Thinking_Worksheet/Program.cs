@@ -12,7 +12,12 @@ namespace Critical_Thinking_Worksheet
             //example.UserChoice();
             //example.StringOfLetters();
             //example.EveryOtherLetter();
-            example.DivisibleByThree();
+            // example.DivisibleByThree();
+
+            While_Loop example2 = new While_Loop();
+
+            //example2.UserInput();
+            example2.EqualTo42();
         }
     }
 }
