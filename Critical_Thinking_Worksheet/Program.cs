@@ -17,7 +17,12 @@ namespace Critical_Thinking_Worksheet
             While_Loop example2 = new While_Loop();
 
             //example2.UserInput();
-            example2.EqualTo42();
+            //example2.EqualTo42();
+
+            Calculator_Maddness calcExample = new Calculator_Maddness();
+            //calcExample.AddTwoNumbers();
+            calcExample.RunCalculations();
+            calcExample.RunCalculations();
         }
     }
 }
